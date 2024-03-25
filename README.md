@@ -14,9 +14,9 @@
 
 <div align="center">
   
-|Chapter||Date|Note|
-| :-------- | :-----------|:--------------------------------------- |:-------- |
-|Chapter 01| I/O와 디스크의 관계||
+|CHAPTER||DATE|NOTE|
+| :-------- | :-----------|:--------------------------------------- |:------|
+|Chapter 01| I/O와 디스크의 관계|2024/03/23|[정리](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2001/Chapter01.%20IO%EC%99%80%20%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98%20%EA%B4%80%EA%B3%84.md)
 |Chapter 02| 오라클의 여러 프로세스||
 |Chapter 03| 캐시와 공유 메모리||
 |Chapter 04| SQL문 분석과 공유 풀||
