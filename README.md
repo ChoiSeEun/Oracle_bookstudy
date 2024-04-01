@@ -20,8 +20,8 @@
 |02| 오라클의 여러 프로세스|2024/03/26|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2002/Chapter02.%20%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98%20%EC%97%AC%EB%9F%AC%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
 |03| 캐시와 공유 메모리|2024/03/27|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2003/Chapter03.%20%EC%BA%90%EC%8B%9C%EC%99%80%20%EA%B3%B5%EC%9C%A0%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 |04| SQL문 분석과 공유 풀|2024/03/27|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2004/Chapter04.%20SQL%EB%AC%B8%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B3%B5%EC%9C%A0%20%ED%92%80.md)
-|05| 오라클의 기동과 정지||
-|06| 커넥션과 서버 프로세스의 생성||
+|05| 오라클의 기동과 정지|2024/03/28|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2005/Chapter05.%20%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98%20%EA%B8%B0%EB%8F%99%EA%B3%BC%20%EC%A0%95%EC%A7%80.md)
+|06| 커넥션과 서버 프로세스의 생성|2024/03/29|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2006/Chapter06.%20%EC%BB%A4%EB%84%A5%EC%85%98%EA%B3%BC%20%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EC%83%9D%EC%84%B1.md)
 |07| 오라클의 데이터 구조||
 |08| 오라클의 대기와 Lock||
 |09| REDO와 UNDO의 동작||
