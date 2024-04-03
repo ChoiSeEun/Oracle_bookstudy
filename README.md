@@ -25,8 +25,8 @@
 |07| 오라클의 데이터 구조|2024/03/31|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2007/Chapter07.%20%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0.md)
 |08| 오라클의 대기와 Lock|2024/04/01|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2008/Chapter08.%20%EC%98%A4%EB%9D%BC%ED%81%B4%EC%9D%98%20%EB%8C%80%EA%B8%B0%EC%99%80%20LOCK.md)
 |09| REDO와 UNDO의 동작|2024/04/01|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2009/Chapter09.%20REDO%EC%99%80%20UNDO%EC%9D%98%20%EB%8F%99%EC%9E%91.md)
-|10| 백업/복구의 구조와 동작||
-|11| 백그라운드 프로세스의 동작과 역할||
-|12| 오라클 아키텍처와 동작에 관한 Q&A||
+|10| 백업/복구의 구조와 동작|2024/04/02|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2010/Chapter10.%20%EB%B0%B1%EC%97%85%26%EB%B3%B5%EA%B5%AC%EC%9D%98%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%8F%99%EC%9E%91.md)
+|11| 백그라운드 프로세스의 동작과 역할|2024/04/02|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2011/Chapter11.%20%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EB%8F%99%EC%9E%91%EA%B3%BC%20%EC%97%AD%ED%95%A0.md)
+|12| 오라클 아키텍처와 동작에 관한 Q&A|2024/04/02|[note](https://github.com/ChoiSeEun/Oracle_bookstudy/blob/main/Chapter%2012/Chapter12.%20%EC%98%A4%EB%9D%BC%ED%81%B4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80%20%EB%8F%99%EC%9E%91%EC%97%90%20%EA%B4%80%ED%95%9C%20Q%26A.md)
 
 </div>
